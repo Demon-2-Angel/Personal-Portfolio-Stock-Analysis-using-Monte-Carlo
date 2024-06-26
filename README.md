@@ -4,13 +4,13 @@ This code performs a Monte Carlo simulation to estimate the future value of a st
 
 ## 1. Importing Libraries
 
-\```python
+\``` python
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 import datetime as dt
 import yfinance as yf
-\```
+\ ```
 
 - **pandas**: For data manipulation and analysis.
 - **matplotlib.pyplot**: For plotting graphs.
